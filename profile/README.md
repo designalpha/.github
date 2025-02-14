@@ -1,6 +1,3 @@
-Here's a description you can add to the README for your "Design Alpha" organization GitHub repository, which focuses on embedded software projects:
-
----
 
 # Design Alpha - Embedded Software Projects
 
